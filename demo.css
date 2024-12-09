@@ -1,0 +1,214 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+}
+
+ .nav{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: lightpink;
+    margin: 40px;
+  }
+  p{
+    font-weight: bold;
+  }
+  .navs{
+    text-align: center;
+    padding: 40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: lemonchiffon;
+    margin: 40px;
+  }
+  .nav1{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgba(173, 216, 230, 0.874);
+    margin: 40px;
+  }
+  .nav2{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color:rgba(144, 238, 144, 0.748);
+    margin: 40px;
+  }
+  .nav3{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgba(119, 136, 153, 0.837);
+    margin: 40px;
+  }
+  .nav4{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgba(255, 160, 122, 0.856);
+    margin: 40px;
+  }
+  .nav5{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: lightpink;
+    margin: 40px;
+  }
+  .nav6{
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color:lemonchiffon;
+    
+  }
+  .c1{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgb(175, 201, 226);
+  }
+  .c2{
+    text-align: center;
+    padding: 30px 30px ;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgb(248, 209, 170);
+  }
+  .c3{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgb(155, 239, 155);
+  }
+  .c4{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgb(249, 171, 140);
+  }
+  .c5{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color:rgb(167, 180, 194);
+  }
+
+  .c6{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgb(240, 150, 164);
+  }
+  .c7{
+    text-align: center;
+    padding: 30px 30px ;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: linen;
+  }
+  .c8{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgba(135, 206, 250, 0.851);
+  }
+  .c9{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: rgba(32, 178, 171, 0.763);
+  }
+  .c10{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: lightcoral;
+  }
+
+  .c11{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: lemonchiffon;
+  }
+  .c12{
+    text-align: center;
+    padding: 30px 30px;
+    width: 10vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+    background-color: lightsalmon;
+  }
+  .m1,.m2,.m3,.m4{
+
+    text-align: center;
+    padding:40px 40px;
+    width: 30vw;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 40px;
+
+  }
+
+
+  button{
+      background-color: black;
+      border-radius: 20px;
+      width: 150px;
+      height: 30px;
+  
+  }
+a{
+    color: azure;
+    text-decoration: none;
+}
